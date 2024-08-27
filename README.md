@@ -62,3 +62,7 @@ AutoDriveBackup is a Python-based project that automatically monitors a director
 ## Contributing
 
 AutoDriveBackup is still in its early stages and may have some flaws and issues. If you're interested in improving the project, please feel free to contribute! We welcome pull requests and suggestions for enhancements. Thank you for your support.
+
+## Contact
+
+For any questions or feedback, please reach out to [nox0389@gmail.com](mailto:nox0389@gmail.com).
