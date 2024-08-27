@@ -20,7 +20,7 @@ AutoDriveBackup is a Python-based project that automatically monitors a director
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/AutoDriveBackup.git
+    git clone https://github.com/Muhd-Uwais/AutoDriveBackup.git
     cd AutoDriveBackup
     ```
 
@@ -39,7 +39,7 @@ AutoDriveBackup is a Python-based project that automatically monitors a director
 
 4. **Configure the script:**
 
-    - Update the `SERVICE_ACCOUNT_FILE` and `SCOPES` variables in the script with your Google API credentials and desired API scopes.
+    - Update the `CLIENT_SECRET` and `SCOPES` variables in the script with your Google API credentials and desired API scopes.
 
 5. **Run the script:**
 
