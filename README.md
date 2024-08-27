@@ -20,8 +20,8 @@ AutoDriveBackup is a Python-based project that automatically monitors a director
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/AutoBackup.git
-    cd AutoBackup
+    git clone https://github.com/yourusername/AutoDriveBackup.git
+    cd AutoDriveBackup
     ```
 
 2. **Install the required Python libraries:**
@@ -61,13 +61,4 @@ AutoDriveBackup is a Python-based project that automatically monitors a director
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- [Google API Client Libraries](https://developers.google.com/api-client-library/python) for seamless Google Drive integration.
-- [Watchdog](https://pypi.org/project/watchdog/) for real-time file system monitoring.
+AutoDriveBackup is still in its early stages and may have some flaws and issues. If you're interested in improving the project, please feel free to contribute! We welcome pull requests and suggestions for enhancements. Thank you for your support.
