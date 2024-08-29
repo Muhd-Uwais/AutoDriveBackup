@@ -65,4 +65,4 @@ AutoDriveBackup is still in its early stages and may have some flaws and issues.
 
 ## Contact
 
-For any questions or feedback, please reach out to [nox0389@gmail.com](mailto:nox0389@gmail.com).
+For any questions or feedback, please [Contact Me](https://nox-uwi.github.io/Form/).
