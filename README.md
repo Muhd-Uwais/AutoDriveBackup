@@ -66,3 +66,8 @@ AutoDriveBackup is still in its early stages and may have some flaws and issues.
 ## Contact
 
 For any questions or feedback, please [Contact Me](https://nox-uwi.github.io/Form/).
+
+---
+
+Happy Coding! 🚀
+
