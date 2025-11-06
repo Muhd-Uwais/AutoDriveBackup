@@ -69,5 +69,10 @@ For any questions or feedback, please [Contact Me](https://nox-uwi.github.io/For
 
 ---
 
-Happy Coding! 🚀
+<p align="center">
+  <b>#DPMG</b><br>
+  <sub>Discipline • Peace • Myself • Growth</sub>
+</p>
+
+<p align="center"><sup>Happy Coding! 🚀</sup></p>
 
